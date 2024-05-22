@@ -14,3 +14,10 @@
 [Autonomous Documentation](https://applitools.com/docs/autonomous/content/index.html)
 </br>
 [Autonomous Landing Page](https://applitools.com/platform/autonomous/)
+</br>
+</br>
+[Tunneling Config](https://applitools.com/docs/autonomous/content/topics/tunnel.htm?Highlight=tunnel)
+</br>
+[Flows Before Running Scrips](https://applitools.com/docs/autonomous/content/topics/url-list-tests.htm#url-list-pretest)
+</br>
+[Parameterization](https://applitools.com/docs/autonomous/content/topics/parameters.htm?Highlight=parameter)
