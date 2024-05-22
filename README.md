@@ -12,4 +12,5 @@
 
 ## Resources
 [Autonomous Documentation](https://applitools.com/docs/autonomous/content/index.html)
+</br>
 [Autonomous Landing Page](https://applitools.com/platform/autonomous/)
