@@ -9,3 +9,7 @@
 * Utilize at least 1 of the “Advanced Settings”, i.e. test with “Layout” and enable “useDom” for better dynamic content analysis. 
 
 *If your project is inaccessible for any reason, let the Applitools team know. If we can’t get it working today you can use imaginelearning.com for today.*
+
+## Resources
+[Autonomous Documentation](https://applitools.com/docs/autonomous/content/index.html)
+[Autonomous Landing Page](https://applitools.com/platform/autonomous/)
