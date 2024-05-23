@@ -21,3 +21,7 @@
 [Flows Before Running Scrips](https://applitools.com/docs/autonomous/content/topics/url-list-tests.htm#url-list-pretest)
 </br>
 [Parameterization](https://applitools.com/docs/autonomous/content/topics/parameters.htm?Highlight=parameter)
+</br> </br>
+[Eyes - Visual Locators ](https://applitools.com/docs/features/visual-locators.html)
+* Used for Canvas + clicking items that are otherwise non-selectable
+  
